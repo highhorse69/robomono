@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card';
+
 import reportWebVitals from './reportWebVitals';
 import 'tachyons' ;
-import App from './App.js';
+import App from './container/App';
 
 ReactDOM.render(
   <React.StrictMode>
