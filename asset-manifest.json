@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robomono/static/css/main.0fcb2392.chunk.css",
+    "main.js": "/robomono/static/js/main.9e8a400c.chunk.js",
+    "main.js.map": "/robomono/static/js/main.9e8a400c.chunk.js.map",
+    "runtime-main.js": "/robomono/static/js/runtime-main.46608029.js",
+    "runtime-main.js.map": "/robomono/static/js/runtime-main.46608029.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robomono/static/css/2.31461e4f.chunk.css",
+    "static/js/2.adfe0e73.chunk.js": "/robomono/static/js/2.adfe0e73.chunk.js",
+    "static/js/2.adfe0e73.chunk.js.map": "/robomono/static/js/2.adfe0e73.chunk.js.map",
+    "static/js/3.954e6fcf.chunk.js": "/robomono/static/js/3.954e6fcf.chunk.js",
+    "static/js/3.954e6fcf.chunk.js.map": "/robomono/static/js/3.954e6fcf.chunk.js.map",
+    "index.html": "/robomono/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robomono/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0fcb2392.chunk.css.map": "/robomono/static/css/main.0fcb2392.chunk.css.map",
+    "static/js/2.adfe0e73.chunk.js.LICENSE.txt": "/robomono/static/js/2.adfe0e73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46608029.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.adfe0e73.chunk.js",
+    "static/css/main.0fcb2392.chunk.css",
+    "static/js/main.9e8a400c.chunk.js"
+  ]
+}
