@@ -5,12 +5,12 @@ import Info from './Info';
 import Info1 from './Info1';
 import Info2 from './Info2';
 
-import './Apple.css';
+import './App.css';
 
 
 
 
-class Apple extends Component
+class App extends Component
 
 { 
  
@@ -36,5 +36,5 @@ render(){
 
 
 
-export default Apple;
+export default App;
 

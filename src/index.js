@@ -10,7 +10,7 @@ import 'tachyons' ;
 
 
 ReactDOM.render(
- <Apple />,
+ <App />,
   
   document.getElementById('root')
 );
