@@ -5,7 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to left,rgba(7,27,82,1)0%,rgba(0,128,128,1)100%);
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0vJsZ8UE-jDr0jqpH7ZLh5hjNda6mY_V8g&usqp=CAU");
+  background-color: #cccccc;
+  background-size: 100%;
 }
 
 code {
