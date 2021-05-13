@@ -5,7 +5,7 @@ const Info1= () =>{
 
 return(
     
-    <div className=' tc  dib br3 pad3 ma2 grow bw2 shadow-5'>
+    <div className=' tc bg-animate hover-bg-light-blue dib br3 pad3 ma2 grow bw2 shadow-5'>
     <pre>--------------------------------------------
    --------------------------------------------
    --------------------------------------------
