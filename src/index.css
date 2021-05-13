@@ -7,7 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0vJsZ8UE-jDr0jqpH7ZLh5hjNda6mY_V8g&usqp=CAU");
   background-color: #cccccc;
-  background-size: 100%;
+  background-size: cover;
+  background-repeat:no-repeat;
 }
 
 code {
